@@ -6,6 +6,9 @@ export default function Navbar() {
           <h1>
             Hello world
           </h1>
+          <h2>
+            start web
+          </h2>
       </div>
     )
   }
